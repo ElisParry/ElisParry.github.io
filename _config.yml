@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://images.squarespace-cdn.com/content/v1/60b7476ee39ca91706df60ab/15881ec1-0547-45b4-b92f-fd5bbdf8fcb3/Elis+Parry.jpg?format=500w"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
